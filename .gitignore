@@ -1,3 +1,8 @@
+API_homework/api_keys.py
+API_homework/.ipynb_checkpoints/
+API_homework/__pycache__/
+API_homework/.DS_Store
+
 # History files
 .Rhistory
 .Rapp.history
